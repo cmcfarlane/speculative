@@ -61,9 +61,41 @@ Quoting Ian Bogost, *Unit Operations*, 7.
 
 31:  "Speculative realism names not only speculative philosophy that takes existence to be separate from thought but also a philosophy *claiming that things speculate* and, furthermore, one *that speculates about how things speculate*."
 
-35-?:  Second chapter discusses the unfortunate cliche of object-oriented ontology: the list or, as Bogost prefers, "the Latour litany." It is annoying when Latour does it and it is even more annoying when Harman does it. Predictably, annoyance reaches its logical conclusion when Bogost spends pages and pages defending the sad practice (e.g., "turning the flowing legato of a literary account into the jarring staccato of real being").
+35-?:  Second chapter discusses the unfortunate cliche of object-oriented ontology: the list or, as Bogost prefers, "the Latour litany." It is annoying when Latour does it and it is even more annoying when Harman does it. Predictably, annoyance reaches its logical conclusion when Bogost spends pages and pages defending the sad practice (e.g., "turning the flowing legato of a literary account into the jarring staccato of real being"). It'd be nice if the speculative realists would just "do philosophy" and stop trying to "be literary" (Harman is the greatest criminal in this regard).
 
 50:  "The practice of ontography---and it is a practice, not merely a theory---describes the many processes of *accounting for* the various units that strew themselves throughout the universe. To create an ontograph involves cataloging things, but also drawing attention to the couplings of and chasms between them."
 
+61:  "But for the hookah, the gear, or the chicken [in soup pot], what's going on?"
 
+The chicken is dead, dude.
+
+62:  Only now we get a reference to Nagel's "What is it like to be a bat?" Surprised it took so long!
+
+62:  Compares Harman's "withdrawal" to Nagel's "the subjective character of experience." Likely the clearest explanation of Harman's concept. "Because of this elusiveness (which OOO calls *withdrawal*), physical reductionism can never explain the experience of a being."
+
+63:  "But to understand how something operates on its surroundings, or they on it, is not the same as understanding how that other thing *understands* those operations."
+
+Earlier, panpsychism (and, presumably Spinozan panetheism) had been ruled out. We can speak of "understanding" vis a vis things that have something resembling a mind. That is, things that are capable of thought (regardless of how rudimentary). Thus, animals. The argument about "withdrawal" makes sense here: how a bat understands itself is different than how a human understands how a bat understands itself. But Bogost wants to talk about (it seems) how a book understands itself or how a rock understands itself or how a unicorn understands itself. 
+
+64:  "Unlike objective phenomenology [e.g., Nagel], alien phenomenology accepts that the subjective character of experiences cannot be fully recuperated objectively, even if it remains wholly real. In a literal sense, *the only way to perform alien phenomenology is by analogy*."
+
+64-5:  "The risk of falling into anthropocentrism is strong. Indeed, I'll take things farther: anthropocentrism is unavoidable, at least for us humans. The same is true of any unit (for the bats, chiropteracentrism is the problem). The subjective nature of experience makes the unit operation of one of its perceptions amount always to a caricature in which the one is drawn in the distorted impression of the other. This is true not only of the encounter itself but also of any account of the encounter, which only further distances the one from the other by virtue of the introduction of additional layers of mediation."
+
+Generally speaking, Bogost is correct. A particular being cannot escape its bounded "subjective experience" and, thus, their experience is always subjectively bound. Humans can imagine what is like for humans to imagine being bats---awkwardly expressed, but true. A human cannot actually experience bat-ness; only an analogy of it---what it would be like *for a human* to be a bat.
+
+The problem Bogost does not identify is that not all anthropocentrisms are equal. Anthropocentrism, normally conceived, is the idea that there is a necessary connection between ontology and politics such that humans are at the centre of all things and, thus, there politics should be organized accordingly. That the world exists *for* humans and that it is up to humans to organize the world as they see fit given their centrality. Flat ontology has to reject this sense of anthropocentrism, which is the most common.
+
+Without specifying the problem, Bogost is confusing the onto-political sense of anthropocentrism (the usual one) with an epistemological sense of anthropocentrism (how he's using the word). What is at issue for Bogost is the ability of particular things to generalize their perspective (their "subjective experience") in relation to other things. His sense of anthropocentrism asks the question, "Can humans *know* what it is like to be a bat?" The standard sense of anthropocentrism asks the absurd question, "Can humans *be* a bat?" And, of course, dismisses the question as not only absurd but also insulting to humans who are at the centre of things.
+
+Now, it is true the ontological and the epistemological are connected. What a thing is determines what a thing can experience. But the "unavoidable anthropocentrism" defended by Bogost only enters at the second level; not the first.
+
+65:  "There is considerable difference between accepting the truth of human accounts of object perceptions and recognizing that, as humans, we are destined to offer anthropomorphic metaphors for the unit operations of object perception, particularly when our intention frequently involves communicating those accounts to other humans."
+
+Quoting Jane Bennett, *Vibrant Matter*, 120: "Maybe it's worth running the risks associated with anthropomorphizing (superstition, the divinization of nature, romanticism) because it, only oddly, works against anthropocentrism: a chord is struck between person and thing, and I am no longer above or outside a nonhuman 'environment.'"
+
+Frans de Waal makes a similar argument the anthropomorphization of primates. Not mentioned by Bogost.
+
+66:  "Objects try to make sense of each other through the qualities and logics they possess. When one object caricatures another, the first grasps the second in abstract, enough for the one to make some sense of the other given its own internal properties. A caricature is a rendering that captures some aspects of something else at the cost of other aspects."
+
+67:  "If we take seriously Harman's suggestion that relation takes place not just *like* metaphor but *as* metaphor, then an opportunity suggests itself: what if we deployed *metaphor itself* as a way to grasp alien objects' perceptions of one another. [...] Metaphorism offers a method for alien phenomenology to grasp at the ways objects bask metaphorically in each others' "notes" (Harman's name, following Xavier Zubíri for the attributes of a real object) by *means of metaphor itself*, rather than by describing the effects of such interactions on the objects."
 
