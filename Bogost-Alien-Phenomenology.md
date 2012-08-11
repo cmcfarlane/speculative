@@ -29,3 +29,41 @@ Rather crude, but serviceable insofar as straw people are built.
 
 14:  "For the scientific naturalist, the world exists for human discovery and exploitation. And for the cultural relativist, humans create and refashion the world."
 
+14:  Interesting point--the Turing Test assumes correlationism insofar as it assumes the sort of thought that machines might have is the human sort of thought.
+
+15:  "a computer is to be considered useful the more it does *intelligent* things, that is, things that benefit human beings or things that human beings can recognize as intelligent activities."
+
+16:  "A true posthumanism would neither extend humanity into a symbiotic, visionary future nor reject our place in the world via antihuman nihilism. 
+
+Citing Levi Bryant, *Democracy of Objects*, 44.
+
+17:  "a flat ontology of computation (or anything else) must be *specific* and *open-ended*, so as to make it less likely to fall into the trap of system operational overdetermination."
+
+21-2:  Claims that it is easy to explain being. Indeed, the explanation "could be rendered via screen print on a trucker's cap." Says it is "tiny ontology." This idea is evidentially so simple that it is explained in four paragraphs (take that, Heidegger) and never actually defined or coherently discussed. A rather Morton-ian moment. "Tiny ontology" means something like a very dense, very small, one-dimensional point. That certainly clears things up. 
+
+22-3:  Relates "tiny ontology" to Bryant's "mereology." Quoting Bryant, *Democracy of Objects*, 215: "one object is simultaneously a part of another object *and* an independent object in its own right."
+
+23:  Term object is unhelpful. First, object and object-oriented have a specific meaning within computer programming and the use of these words introduces confusion. Second, object implies a correlate, subject. Object<=>Subject is correlationist. Third, object implies durable, material things. 
+
+24:  The term thing (which I prefer to use) is also objectionable. Benefit: can be concrete or abstract. Detriment: tied up with Kantian thing-in-itself; Heidegger's view that things are created by humans; psychoanalyst call "lost objects" things. 
+
+25:  "A thing is not just a thing for humans, but a thing for many other things as well, both material and immaterial."
+
+25:  "Unit" is therefore preferable (even though it falls victim to the first criticism of "object"). 
+
+25:  "Counterintuitively, a system and a unit represent three things at once: for one, a unit is isolated and unique. For another, a unit encloses a system---an entire universe's worth. For yet another, a unit becomes part of another system---often many other systems---as it jostles about."
+
+25:  "These systems of units are held together tenuously by accidents. I have adapted the word *operation* to describe how units behave and interact. In systems theory, an operation is 'a basic process that takes one or more inputs and performs a transformation on it.'"
+
+Quoting Ian Bogost, *Unit Operations*, 7.
+
+30:  "*That* things are is not a matter of debate. *What it means that something in particular is for another thing that is*: this is the question that interests me. The significance of one thing to another differs depending on the perspectives of both."
+
+31:  "Speculative realism names not only speculative philosophy that takes existence to be separate from thought but also a philosophy *claiming that things speculate* and, furthermore, one *that speculates about how things speculate*."
+
+35-?:  Second chapter discusses the unfortunate cliche of object-oriented ontology: the list or, as Bogost prefers, "the Latour litany." It is annoying when Latour does it and it is even more annoying when Harman does it. Predictably, annoyance reaches its logical conclusion when Bogost spends pages and pages defending the sad practice (e.g., "turning the flowing legato of a literary account into the jarring staccato of real being").
+
+50:  "The practice of ontography---and it is a practice, not merely a theory---describes the many processes of *accounting for* the various units that strew themselves throughout the universe. To create an ontograph involves cataloging things, but also drawing attention to the couplings of and chasms between them."
+
+
+
