@@ -135,3 +135,13 @@ There are three issues here. First, humans as a species are disproportionately h
 
 One wonders how Bogost managed to make these claims without being passingly familiar with the history of humans holding non-humans morally and legally responsible for crimes against humans. Surely he's read a newspaper and seen stories on hunting "man-killer" bears, sharks, coyotes, wolves, lions, tigers, and so on. We might excuse his ignorance of the somewhat passé idea of holding fallen bits of buildings morally and legally responsible for the damage they do, such as in ancient Greece.
 
+77-8:  "An object enters an ethical relation when it attempts to reconcile the sensual qualities of another object vis-à-vis the former's withdrawn reality. Perhaps counterintuitively, ethics is a self-centred practice, a means of sense making necessitated by the inherent withdrawal of objects. It is a filing system for the sensual qualities of objects that maps those qualities to internal methods of caricature, a process often full of struggle. Here we find the limits of metaphorism and a good reason to respect anthropomorphism's frontier."
+
+78:  "It is not the relationship between piston and fuel that we frame by ethics but *our* relationship to the relationship between piston and fuel."
+
+87:  "Jared Diamond gets it right in his account of material history: the major events and innovations of human progress are the likely outcomes of material conditions, not the product of acute, individual genius."
+
+Okay, but how does this claim differ from, say, the claim you get in science studies: individual genius is not important, but the networks ("material conditions") in which the practice of science is embedded? Why Diamond?
+
+93:  "In the context of alien phenomenology, 'carpentry' borrows from two sources. First, it extends the ordinary sense of woodcraft to any material whatsoever---to do carpentry is to make anything, but to make it in earnest, with one's own hands, like a cabinetmaker. Second, it folds into this act of construction Graham Harman's philosophical sense of 'the carpentry of things,' an idea Harman borrowed in turn from Alphonso Lingis. Both Lingis and Harman use that phrase to refer to how things fashion one another and the world at large. Blending these two notions, carpentry entails making things that explain how things make their world."
+
