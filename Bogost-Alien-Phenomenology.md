@@ -145,3 +145,8 @@ Okay, but how does this claim differ from, say, the claim you get in science stu
 
 93:  "In the context of alien phenomenology, 'carpentry' borrows from two sources. First, it extends the ordinary sense of woodcraft to any material whatsoever---to do carpentry is to make anything, but to make it in earnest, with one's own hands, like a cabinetmaker. Second, it folds into this act of construction Graham Harman's philosophical sense of 'the carpentry of things,' an idea Harman borrowed in turn from Alphonso Lingis. Both Lingis and Harman use that phrase to refer to how things fashion one another and the world at large. Blending these two notions, carpentry entails making things that explain how things make their world."
 
+100:  "Let's draw a distinction: unlike tools and art, philosophical carpentry *is built with philosophy in mind*: it may serve myriad other productive and aesthetic purposes, breaking with its origins and entering into dissemination like anything else, but it's first constructed as a theory, or an experiment, or a question---one that can be operated. Carpentry is philosophical lab equipment."
+
+100:  "The phenomenologist who performs carpentry creates a machine that tries to replicate the unit operation of another's experience."
+
+110:  "Real radicals, we might conclude, *make things*."
