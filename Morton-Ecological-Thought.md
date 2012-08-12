@@ -32,3 +32,26 @@ Now the ecological thought is a sound that sounds like grief. Interconnection is
 
 And like the most well-known of all sphincters, once it opens, shit starts to run.
 
+5:  "Our continued survival, and therefore the survival of the planet we're now dominating beyond all doubt, depends on our thinking past Nature."
+
+Perhaps the major part of the sentence is true ("Our continued survival [...] depends on our thinking past Nature"), but it is not clear how the subordinate clause ("and therefore the survival of the planet") is true insofar as it depends upon (1) "our continued survival" and (2) "thinking past Nature." And, as always, a constant refrain: what does "our continued survival" matter?
+
+6:  "While we're on the subject of Nature and 'new and improved' upgrades, this book makes a rigorous distinction between *environmentalism* and *ecology*."
+
+I hope so.
+
+7:  "Ecology shows us that all beings are connected. *The ecological thought* is the thinking of interconnectedness. The ecological thought is a thought about ecology, but it's also a thinking that is ecological. Thinking the ecological thought is part of an ecological project."
+
+I'm not convinced that "connected" and "*inter*connected" refer to the same thing. More slippage. But, still, if ecology is about "(inter)connectedness" and ecology is, well, a form of thinking, how do ecology and the ecological thought differ from one another? Why read Morton's book instead of, say, a textbook on ecology?
+
+7:  "When we start looking, we find the ecological thought everywhere. This isn't surprising, since the ecological thought is interconnectedness in the fullest and deepest sense."
+
+Okay, but what is interconnectedness? Interconnectedness is that everything is connected. Everything is connected is the ecological thought. Equivocation and vagueness all the way.
+
+8:  "The ecological thought insists that we're deeply connected even when we say we're not. Thinking itself is an ecological event."
+
+8:  "The ecological view to come [...] is a vast, sprawling mesh of interconnection without a definite center or edge. It is radical intimacy, coexistence with other beings, sentient and otherwise--and how can we so clearly tell the difference?"
+
+Tell the difference between what? Unclear. If no "definite center or edge," is there an indefinite center or edge? This can't be because the edge itself would be connected. Indeed, interconnected.
+
+
