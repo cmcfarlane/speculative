@@ -1,6 +1,10 @@
 Bogost, Ian. *Alien Phenomenology, or What It's Like to Be a Thing*. Minneapolis: University of Minnesota Press, 2012.
+=
 
 Epigraph is from They May Might Be Giants--an ominous start.
+
+Chapter 1: Alien Phenomenology
+-
 
 8:  Citing Nash & Broglio introduction to *Configurations* issue on animal studies, Bogost states: "Once more, we find a focus on creatures from the vantage point of human intersubjectivity, rather than from the weird, murky mists of the really real."
 
@@ -61,9 +65,15 @@ Quoting Ian Bogost, *Unit Operations*, 7.
 
 31:  "Speculative realism names not only speculative philosophy that takes existence to be separate from thought but also a philosophy *claiming that things speculate* and, furthermore, one *that speculates about how things speculate*."
 
+Chapter 2: Ontography
+-
+
 35-?:  Second chapter discusses the unfortunate cliche of object-oriented ontology: the list or, as Bogost prefers, "the Latour litany." It is annoying when Latour does it and it is even more annoying when Harman does it. Predictably, annoyance reaches its logical conclusion when Bogost spends pages and pages defending the sad practice (e.g., "turning the flowing legato of a literary account into the jarring staccato of real being"). It'd be nice if the speculative realists would just "do philosophy" and stop trying to "be literary" (Harman is the greatest criminal in this regard).
 
 50:  "The practice of ontography---and it is a practice, not merely a theory---describes the many processes of *accounting for* the various units that strew themselves throughout the universe. To create an ontograph involves cataloging things, but also drawing attention to the couplings of and chasms between them."
+
+Chapter 3: Metaphorism
+-
 
 61:  "But for the hookah, the gear, or the chicken [in soup pot], what's going on?"
 
@@ -139,6 +149,9 @@ One wonders how Bogost managed to make these claims without being passingly fami
 
 78:  "It is not the relationship between piston and fuel that we frame by ethics but *our* relationship to the relationship between piston and fuel."
 
+Chapter 4: Carpentry
+-
+
 87:  "Jared Diamond gets it right in his account of material history: the major events and innovations of human progress are the likely outcomes of material conditions, not the product of acute, individual genius."
 
 Okay, but how does this claim differ from, say, the claim you get in science studies: individual genius is not important, but the networks ("material conditions") in which the practice of science is embedded? Why Diamond?
@@ -150,3 +163,8 @@ Okay, but how does this claim differ from, say, the claim you get in science stu
 100:  "The phenomenologist who performs carpentry creates a machine that tries to replicate the unit operation of another's experience."
 
 110:  "Real radicals, we might conclude, *make things*."
+
+Chapter 5: Wonder
+-
+
+Interesting discussion of "The Wire" and "Ace of Cakes" as being filmed/taking place in many of the same locations in Baltimore.
