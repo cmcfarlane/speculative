@@ -12,11 +12,11 @@ Quentin Meillassoux. *After Finitude: An Essay on the Contingency of Necessity*.
 
 6:  Correlationist circle: "we never grasp an object 'in itself', in isolation from its relation to the subject, but it also becomes necessary to maintain that we can never grasp a subject that would not always-already be related to an object."
 
-object=>subject=>object=>subject=>...
+> object=>subject=>object=>subject=>...
 
 6:  Correlationist two-step: "the primacy of the relation over the related terms; a belief in the constitutive power of reciprocal relation."
 
-object<=>subject
+> object<=>subject
 	
 10:  Ancestral: "any reality anterior to the emergence of the human species--even anterior to every recognized form of life on earth."
 

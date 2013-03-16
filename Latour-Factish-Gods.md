@@ -13,7 +13,7 @@ x:  "If the notion of *factish* allows one to suspend the belief of belief, that
 Chapter 1: On the Cult of the Factish Gods
 ---
 
-	Largely gives the impression of being a condensed and updated version of *We Have Never Been Modern*.
+> Largely gives the impression of being a condensed and updated version of *We Have Never Been Modern*.
 
 2:  "*agnosticism* as a way of ceasing to believe in belief."
 

@@ -2,7 +2,7 @@ Pierides, Dean and Dan Woodman. "Object-oriented sociology and organizing in the
 
 667:  An object is emergent (it is more than its parts) and at the same time it is also more than its engagements (it is also withdrawn). This double irreducibility allows objects to surprise other objects and us.
 
-Okay. But this appears as though the authors are claiming that there is a distinction between "other objects" (=things, =nature) and "us" (=humans, =social/cultural). This precisely misses the point insofar as humans are but one type of object among all others.
+> Okay. But this appears as though the authors are claiming that there is a distinction between "other objects" (=things, =nature) and "us" (=humans, =social/cultural). This precisely misses the point insofar as humans are but one type of object among all others.
 
 668:  "the acceptance of difference between primary and secondary qualities" and "the implications this has for the relationship between emergence and reality."
 

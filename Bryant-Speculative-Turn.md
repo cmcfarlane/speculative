@@ -56,3 +56,14 @@ Chapter 4: Mining Conditions: A Response to Harman (Iain Hamilton Grant)
 Chapter 5: Concepts and Objects (Ray Brassier)
 ---
 
+47:  "There is no cognitive ingress to the real save through the concept. Yet the real is not to be confused with the concepts through which we know it. The fundamental problem of philosophy is to understand how to reconcile these two claims."
+
+47:  "a world that is not designed to be intelligible and is not originally infused with meaning."
+
+48:  "a properly theoretical understanding of what *is* real regardless of our allegedly pre-ontological understanding of it--but not, please not, irrespective of our ways of conceiving it."
+
+48:  "it [meaning] must be recognized to be a conditioned phenomenon generated through meaningless yet tractable mechanisms operative at the sub-personal (neurocomputational) as well as supra-personal (sociocultural) level."
+
+> But not at the personal level?
+
+49:  "reality is neither innately meaningful nor inherently intelligible"
