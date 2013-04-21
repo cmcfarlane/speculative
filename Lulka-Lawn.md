@@ -1,4 +1,4 @@
-Lulka, David. "The Lawn; or On Becoming a Killer." *Environment and Planning D: Society and Space* 30 (2012): 207-25.
+Lulka, David. "The Lawn; or On Becoming a Killer." *Environment and Planning D: Society and Space* 30 (2012): 207--25.
 ===
 
 Despite the relative lack of notes, the article is a very interesting meditation on the adequacy of, respectively, Spinoza's and Bergson's understanding of immanence to make sense of a concrete event: viz., severely wounding a lizard while cutting the grass.
